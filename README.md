@@ -13,4 +13,4 @@ php artisan serve
 
 AdminURL: http://127.0.0.1:8000/admin
 Email: admin@example.cz
-Password: KW9U4HdLm5!0
+Heslo: KW9U4HdLm5!0
