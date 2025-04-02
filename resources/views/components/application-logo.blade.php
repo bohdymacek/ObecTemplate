@@ -1,0 +1,1 @@
+<img src="{{ asset('import/assets/znak-petrov-min.png') }}" alt="Logo" {{ $attributes }}>

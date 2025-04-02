@@ -1,0 +1,1 @@
+<img src="<?php echo e(asset('import/assets/znak-petrov-min.png')); ?>" alt="Logo" <?php echo e($attributes); ?>><?php /**PATH C:\Users\bohda\OneDrive\Plocha\Obec\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
